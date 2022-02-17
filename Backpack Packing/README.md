@@ -9,20 +9,17 @@ Find the number of objects left home.
 <h2>Test Cases</h2>
 
 - Case 1:
-  A = 7, B = 5, N = 8
-  Volumes: 3, 1, 4, 2, 5, 1, 4, 3
-  Output: 3
+  - A = 7, B = 5, N = 8
+  - Volumes: 3, 1, 4, 2, 5, 1, 4, 3
+  - Output: 3
 - Case 2:
-  A = 10, B = 10, N = 4
-  Volumes: 2, 4, 1, 5
-  Output: 0
+  - A = 10, B = 10, N = 4
+  - Volumes: 2, 4, 1, 5
+  - Output: 0
 - Case 3:
-  A = 5, B = 5, N = 6
-  Volumes: 1, 4, 5, 2, 3, 4
-  Output: 3
+  - A = 5, B = 5, N = 6
+  - Volumes: 1, 4, 5, 2, 3, 4
+  - Output: 3
 
 <h2>Credit</h2>
 The description of the programming challenge can be found at https://csacademy.com/contest/archive/task/backpack-packing/statement/
-
-
-
