@@ -6,6 +6,11 @@ You are planning to go on a trip, so you decide to pack the objects. You take ea
 that's got the most room left. If you can't pack an object you are going to leave it home.
 Find the number of objects left home.
 
+<h2>Languages</h2>
+- C++
+- Python
+- JavaScript
+
 <h2>Test Cases</h2>
 
 - Case 1:
