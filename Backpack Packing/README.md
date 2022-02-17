@@ -7,6 +7,7 @@ that's got the most room left. If you can't pack an object you are going to leav
 Find the number of objects left home.
 
 <h2>Test Cases</h2>
+
 - Case 1:
   A = 7, B = 5, N = 8
   Volumes: 3, 1, 4, 2, 5, 1, 4, 3
